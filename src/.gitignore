@@ -1,9 +1,0 @@
-# Eclipse settings
-.settings/
-
-# Compiled Java files
-bin/
-*.class
-
-# Temporary files
-*.log
