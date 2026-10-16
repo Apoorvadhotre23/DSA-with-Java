@@ -2,7 +2,7 @@ package Mathematics.Day_02;
 
 import java.util.Scanner;
 
-public class PrimeFactor2 {
+public class PrimeFactorization2 {
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
